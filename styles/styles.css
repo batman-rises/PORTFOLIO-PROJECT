@@ -24,6 +24,7 @@
   --box-shadow-1: 0 3px 15px rgba(0, 0, 0, 0.3);
 }
 
+<<<<<<< HEAD
 .light-mode {
   --color-primary: #FFFFFF;
   --color-secondary: #F56692;
@@ -38,6 +39,8 @@
   --color-grey-6: #12181b;
 }
 
+=======
+>>>>>>> 32e63fe1069f066b8800427c7d87644fb87566ae
 body {
   background-color: var(--color-primary);
   font-family: "Poppins", sans-serif;
@@ -155,6 +158,7 @@ section {
   pointer-events: none;
 }
 
+<<<<<<< HEAD
 .theme-btn {
   top: 2%;
   right: 2%;
@@ -180,6 +184,8 @@ section {
   pointer-events: none;
 }
 
+=======
+>>>>>>> 32e63fe1069f066b8800427c7d87644fb87566ae
 /*HEADER-CONTENT*/
 .header-content {
   display: grid;
@@ -330,6 +336,7 @@ section {
 .about-stats .progress-bars .progress-bar .progress-con .prog-text {
   color: var(--color-grey-2);
 }
+<<<<<<< HEAD
 .about-stats .progress-bars .progress-bar .progress-con .progress {
   width: 100%;
   height: 0.45rem;
@@ -657,6 +664,8 @@ section {
   display: flex;
   justify-content: flex-start;
 }
+=======
+>>>>>>> 32e63fe1069f066b8800427c7d87644fb87566ae
 
 /*INDEPENDENT COMPONENT*/
 .btn-con {
